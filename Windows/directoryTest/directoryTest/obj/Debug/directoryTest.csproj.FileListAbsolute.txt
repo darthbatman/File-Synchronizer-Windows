@@ -1,0 +1,9 @@
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\bin\Debug\directoryTest.exe.config
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\bin\Debug\directoryTest.exe
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\bin\Debug\directoryTest.pdb
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\obj\Debug\directoryTest.csprojResolveAssemblyReference.cache
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\obj\Debug\directoryTest.Form1.resources
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\obj\Debug\directoryTest.Properties.Resources.resources
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\obj\Debug\directoryTest.csproj.GenerateResource.Cache
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\obj\Debug\directoryTest.exe
+c:\users\darth\documents\visual studio 2015\Projects\directoryTest\directoryTest\obj\Debug\directoryTest.pdb
